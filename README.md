@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @cedric-k-n
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in leveraging computational approaches to uncover previously inaccessible genomic regions
+  and to contribute in the discovery of new methylation patterns that will drive ADRDs research. 
 - 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cedricdixi@gmail.com
-- 😄 Pronouns: He/him/his
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/him
 
 <!---
 cedric-k-n/cedric-k-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
