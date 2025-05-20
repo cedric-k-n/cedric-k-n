@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cedric-k-n
 - 👀 I’m interested in leveraging computational approaches to uncover previously inaccessible genomic regions
   and to contribute in the discovery of new methylation patterns that will drive ADRDs research. 
-- 🌱 I’m currently learning Pyhton
 - 📫 How to reach me cedricdixi@gmail.com
 - 😄 Pronouns: He/him
 
